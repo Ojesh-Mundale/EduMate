@@ -21,15 +21,7 @@ EduMate is an AI-powered study assistant that helps users extract text from docu
 
 <!-- Add UI images here -->
 
-![Upload and Extract Text](path/to/upload-screenshot.png)
-
-![Quiz Generation](path/to/quiz-screenshot.png)
-
-![Ask Doubt Modal](path/to/ask-doubt-modal.png)
-
-![Chat Box](path/to/chat-box.png)
-
----
+![EduMate UI](path/to/upload-screenshot.png)
 
 ## Getting Started
 
