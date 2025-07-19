@@ -1,3 +1,21 @@
-*.java linguist-detectable = true
-*.js linguist-detectable = false
+# Prioritize Java
+*.java linguist-detectable=true
+
+# Ignore frontend files from language stats
+*.js linguist-detectable=false
+*.jsx linguist-detectable=false
+*.ts linguist-detectable=false
+*.tsx linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+
+# Ignore configuration files
+*.json linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+
+# Ignore vendor folders
 node_modules/** linguist-vendored
+build/** linguist-vendored
+dist/** linguist-vendored
+
